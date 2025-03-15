@@ -1,0 +1,24 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\bin\Debug\Game2.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\bin\Debug\Game2.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\bin\Debug\Game2.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\obj\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\obj\Debug\Game2.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\obj\Debug\Game2.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\obj\Debug\Game2.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.Cache
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\bin\Debug\Game2.exe.config
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\bin\Debug\Game2.exe
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\bin\Debug\Game2.pdb
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.csprojResolveAssemblyReference.cache
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.MainForm.resources
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.Cache
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.exe
+D:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.pdb
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\bin\Debug\Game2.exe.config
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\bin\Debug\Game2.exe
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\bin\Debug\Game2.pdb
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.csprojResolveAssemblyReference.cache
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.MainForm.resources
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.Cache
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.exe
+E:\Cursos\Desevolvimento de sistemas\PA\Game2\Game2\obj\Debug\Game2.pdb
